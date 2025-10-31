@@ -6,6 +6,7 @@ struct date
 };
 struct student
 {
+    
     int id;
     char fname[100];
     char lname[150];
